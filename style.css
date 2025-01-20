@@ -18,3 +18,7 @@
 section {
   padding-top: 6rem;
 }
+
+a {
+  text-decoration: none;
+}
