@@ -3,7 +3,7 @@
   background-color: #e2edff;
 }
 
-#projects {
+#gallery {
   padding-top: 6rem;
   background-color: #e2edff;
 }
@@ -21,4 +21,12 @@ section {
 
 a {
   text-decoration: none;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
 }
